@@ -1,2 +1,2 @@
 # Emissor
-Criado para emitir  recibo de Compras 
+Criado para emitir  recibo de Compras 🛒
